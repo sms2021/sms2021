@@ -1,4 +1,4 @@
-- 👋 Hi, I'm SM Haidari
+- 👋 Hi, I'm SMH
 - 👀 I’m interested in meta-analysis and mixed-research synthesis
 - 🌱 Currently doing my PhD in Curriculum and Instruction 
 <!---
